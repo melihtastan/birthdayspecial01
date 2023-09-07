@@ -29,14 +29,11 @@ body{
     background-color: #0c0316;
 }
 #mak{
-    margin-left: 550px;
-    width: 700px;
     position: relative;
     animation: zaman 3s;
     animation-timing-function: ease-in-out;
 }
 #makk{
-    margin-left: 550px;
     width: 700px;
 }
 @keyframes zaman {
