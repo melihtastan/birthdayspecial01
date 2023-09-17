@@ -1,5 +1,5 @@
 #kirmizi{
-    margin-left: 110px;
+    margin-left: 94px;
     width: auto;
     height: 30px;
     background-color: rgb(196, 0, 0);
@@ -10,7 +10,7 @@
     box-shadow: 0px 0px 20px rgb(255, 0, 0);
 }
 #mavi{
-    margin-left: 120px;
+    margin-left: 95px;
     width: auto;
     height: 30px;
     background-color: rgb(13, 0, 196);
@@ -22,7 +22,7 @@
 }
 #btns{
   
-  margin-top: 150px;
+  margin-top: 130px;
     position: absolute;
 }
 body{
